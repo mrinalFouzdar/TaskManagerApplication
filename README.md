@@ -21,7 +21,7 @@ docker-compose up --build
 ```
 
 Services:
-- Frontend: `http://localhost`
+- Frontend: `http://localhost:80`
 - Backend API: `http://localhost:5000`
 - PostgreSQL (host): `localhost:5433` (container still uses `5432`)
 
